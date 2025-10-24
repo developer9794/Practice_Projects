@@ -1,0 +1,173 @@
+CHECKLIST
+
+**🔹 Core Java (✅ Must Know)**
+
+-   ![](./image1.wmf)JDK vs JRE vs JVM
+
+-   ![](./image1.wmf)== vs equals() vs hashCode()
+
+-   ![](./image1.wmf)final, finally, finalize
+
+-   ![](./image1.wmf)Overloading vs Overriding
+
+-   ![](./image1.wmf)Exception Handling (checked vs unchecked)
+
+-   ![](./image1.wmf)Wrapper Classes
+
+-   ![](./image1.wmf)Access Modifiers (public, private, protected,
+    default)
+
+-   ![](./image1.wmf)Static Keyword (method, block, variable)
+
+**🔹 Java Collections & Maps**
+
+-   ![](./image1.wmf)List vs Set vs Map
+
+-   ![](./image1.wmf)ArrayList vs LinkedList
+
+-   ![](./image1.wmf)HashMap vs TreeMap vs LinkedHashMap
+
+-   ![](./image1.wmf)HashMap vs ConcurrentHashMap vs Hashtable
+
+-   ![](./image1.wmf)Fail-Fast vs Fail-Safe Iterator
+
+-   ![](./image1.wmf)Comparable vs Comparator
+
+-   ![](./image1.wmf)Collection vs Collections (class)
+
+**🔹 Java 8--17 Features (💼 Interview Trending)**
+
+-   ![](./image1.wmf)Lambda Expressions
+
+-   ![](./image1.wmf)Functional Interfaces
+
+-   ![](./image1.wmf)Stream API (map, filter, reduce)
+
+-   ![](./image1.wmf)Optional
+
+-   ![](./image1.wmf)Method References
+
+-   ![](./image1.wmf)var keyword (Java 10)
+
+-   ![](./image1.wmf)Records (Java 14+)
+
+-   ![](./image1.wmf)Sealed Classes (Java 17)
+
+-   ![](./image1.wmf)Pattern Matching with instanceof
+
+-   ![](./image1.wmf)Switch Expressions
+
+-   ![](./image1.wmf)Text Blocks
+
+**🔹 Multithreading & Concurrency**
+
+-   ![](./image1.wmf)Thread Lifecycle
+
+-   ![](./image1.wmf)Runnable vs Callable
+
+-   ![](./image1.wmf)ExecutorService
+
+-   ![](./image1.wmf)synchronized, volatile, Lock
+
+-   ![](./image1.wmf)Deadlock & prevention
+
+-   ![](./image1.wmf)Concurrent Collections (ConcurrentHashMap,
+    etc.)
+
+**🔹 OOP, Design, & Patterns**
+
+-   ![](./image1.wmf)OOP: Encapsulation, Abstraction, Inheritance,
+    Polymorphism
+
+-   ![](./image1.wmf)Singleton, Factory, Strategy, Builder,
+    Observer Patterns
+
+-   ![](./image1.wmf)Interface vs Abstract Class
+
+-   ![](./image1.wmf)Composition vs Aggregation
+
+**🔹 Spring Boot & Microservices (⭐ Real Project Focus)**
+
+-   ![](./image1.wmf)Spring Boot Annotations (@RestController,
+    \@Autowired, etc.)
+
+-   ![](./image1.wmf)Dependency Injection
+
+-   ![](./image1.wmf)Spring Data JPA & Repository
+
+-   ![](./image1.wmf)Global Exception Handling (@ControllerAdvice)
+
+-   ![](./image1.wmf)Spring Security Basics
+
+-   ![](./image1.wmf)REST API (POST, GET, PUT, DELETE)
+
+-   ![](./image1.wmf)Microservices Architecture
+
+-   ![](./image1.wmf)API Gateway (Zuul/Gateway)
+
+-   ![](./image1.wmf)Service Discovery (Eureka)
+
+-   ![](./image1.wmf)Config Server / Centralized Config
+
+-   ![](./image1.wmf)Circuit Breaker (Resilience4j)
+
+**🔹 Unit Testing & Tools**
+
+-   ![](./image1.wmf)JUnit 5
+
+-   ![](./image1.wmf)Mockito
+
+-   ![](./image1.wmf)Test Coverage (JaCoCo/SonarQube)
+
+-   ![](./image1.wmf)Integration Tests with Spring Boot
+
+-   ![](./image1.wmf)TestContainers (advanced)
+
+**🔹 SQL & Database**
+
+-   ![](./image1.wmf)MySQL/Oracle basics
+
+-   ![](./image1.wmf)Joins (INNER, LEFT, RIGHT, FULL)
+
+-   ![](./image1.wmf)ACID Properties
+
+-   ![](./image1.wmf)Normalization
+
+-   ![](./image1.wmf)Hibernate / JPA basics (Entity, Query, Lazy
+    loading)
+
+**🔹 DevOps & CI/CD Awareness**
+
+-   ![](./image1.wmf)Docker (basic image & container knowledge)
+
+-   ![](./image1.wmf)Maven/Gradle
+
+-   ![](./image1.wmf)CI/CD (Jenkins or GitHub Actions)
+
+-   ![](./image1.wmf)Git (branching, merge, PR)
+
+**🔹 Java Performance & Security**
+
+-   ![](./image1.wmf)JVM memory structure (Heap, Stack, GC)
+
+-   ![](./image1.wmf)Basic JVM tuning
+
+-   ![](./image1.wmf)Secure REST API (JWT, OAuth2)
+
+-   ![](./image1.wmf)BCrypt Password Encryption
+
+-   ![](./image1.wmf)XSS, CSRF Basics
+
+**🧠 Soft Skills & Behavioral**
+
+-   ![](./image1.wmf)STAR Method for experience-based questions
+
+-   ![](./image1.wmf)Tell me about yourself
+
+-   ![](./image1.wmf)Your biggest technical challenge
+
+-   ![](./image1.wmf)How you handled a conflict
+
+-   ![](./image1.wmf)Why you want to leave / join new company
+
+-   ![](./image1.wmf)Your career goals in 3--5 years
